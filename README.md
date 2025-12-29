@@ -183,7 +183,7 @@ MIT License - see LICENSE file
 
 ## 👤 Author
 
-**Akhila Bollampally** — GitHub [@akhila-bollampally](https://github.com/akhila-bollampally)
+**Akshith Reddy Bairu** 
 
 ---
 
